@@ -1,0 +1,22 @@
+/* Different background-colors 
+    #FEC868 
+    #A6BB8D 
+    #ABC270 
+    #EAF6F6 
+    #FFF4D2 
+    #E5EBB2 
+*/
+
+body {
+    background-color: #BCE29E;
+}
+
+h1,
+h3 {
+    color: #66BFBF;
+}
+
+hr {
+    border-top: dotted 8px gray;
+    width: 5%;
+}
